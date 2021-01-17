@@ -1,0 +1,28 @@
+# Deathnote Borders   x ,   y
+Top Left:            610,   79
+Top Right - Left:   1286,   79
+Top Right - Bottom: 1310,  109
+Bottom Right:       1310,  979
+Bottom Left:         610,  979
+
+#                     x ,   y
+Clear Button:        959, 1002
+Clear Yes:          1061,  581
+
+#                     x ,   y
+BrushButton:        1197, 1003
+Brush Size One:     1336, 730
+Brush Size Two:     1336, 682
+Brush Size Three:   1336, 632
+Brush Size Four:    1336, 589
+Brush Size Five:    1336, 539
+
+# Colors     x ,   y ,  r ,  g ,  b
+Black:      583,  375,   0,   0,   0
+White:      583,  420, 177, 177, 177
+Red:        583,  465, 100,   0,   0
+Blue:       583,  510,   0, 101, 160
+Purple:     583,  555,  99,   0, 124
+Green:      583,  600,   0, 123,   0
+Yellow:     583,  645, 163, 152,   0
+Orange:     583,  690, 194, 106,   0
